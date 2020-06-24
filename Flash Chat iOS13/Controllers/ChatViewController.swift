@@ -12,6 +12,7 @@ import Firebase
 /**
  ChartViewController
  Date: 06/22/2020
+  This ViewController is responsible for pushing and pulling data to and from Firebase
  */
 
 class ChatViewController: UIViewController {
