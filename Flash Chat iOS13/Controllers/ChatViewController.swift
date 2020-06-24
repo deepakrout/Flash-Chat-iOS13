@@ -9,6 +9,11 @@
 import UIKit
 import Firebase
 
+/**
+ ChartViewController
+ Date: 06/22/2020
+ */
+
 class ChatViewController: UIViewController {
     
     @IBOutlet weak var tableView: UITableView!
